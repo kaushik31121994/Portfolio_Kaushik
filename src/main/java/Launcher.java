@@ -9,5 +9,9 @@ public class Launcher {
 		System.out.println("hello test 01...!!!");
 	}
 	
+	public void test03() {
+		System.out.println("hello test 03...!!!");
+	}	
+	
 	
 }
