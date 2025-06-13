@@ -14,7 +14,11 @@ public class Launcher {
 	
 	public void test03() {
 		System.out.println("hello test 03...!!!");
-	}	
+	}
+	
+	public void test04() {
+		System.out.println("hello test 04...!!!");
+	}
 	
 }
 
