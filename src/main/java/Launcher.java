@@ -16,5 +16,9 @@ public class Launcher {
 		System.out.println("hello test 03...!!!");
 	}	
 	
+	public static void main() {
+		System.out.println("launching portfolio....");
+	}
+	
 }
 
